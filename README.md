@@ -29,7 +29,8 @@ La segunda es un IDE de escritorio conocido como <a href="https://code.visualstu
 
 ![image](https://user-images.githubusercontent.com/118775234/236720711-48a815db-27db-4e3d-9379-d7b5911074fc.png)
 
-- Despúes de la instalación, nos dirigimos al IDE a instalar una extención que nos permitira visualizar el archivo (MarkDown.md) de forma remota.
+- Despúes de la instalación, nos dirigimos al IDE a instalar una extención que nos permitira visualizar el archivo (MarkDown.md) de forma remota. si por alguna razón no puedes encontrar la extención puedes encotrarla aqui 👉<a href="https://marketplace.visualstudio.com/items?itemName=bierner.markdown-preview-github-styles">MarkDown Preview GitHub Styling </a>
+
  ![image](https://user-images.githubusercontent.com/118775234/236723225-b9930ade-4c2d-4010-9f7d-d2822a797e42.png)
    
 
