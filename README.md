@@ -8,9 +8,7 @@ MarkDown es un lenguaje  de  marcado creado por Jhon Gruber, que trata de simpli
 - WordPress 
 - Stackoverflow 
 - Documentación de Software
--
--
--
--
--
-
+- BookDown 
+- GitHub Lab 
+- GitHub 
+- GitHub Profile
