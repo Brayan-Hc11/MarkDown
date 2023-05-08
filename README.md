@@ -32,5 +32,10 @@ La segunda es un IDE de escritorio conocido como <a href="https://code.visualstu
 - Despúes de la instalación, nos dirigimos al IDE a instalar una extención que nos permitira visualizar el archivo (MarkDown.md) de forma remota. si por alguna razón no puedes encontrar la extención puedes encotrarla aqui 👉<a href="https://marketplace.visualstudio.com/items?itemName=bierner.markdown-preview-github-styles">MarkDown Preview GitHub Styling </a>
 
  ![image](https://user-images.githubusercontent.com/118775234/236723225-b9930ade-4c2d-4010-9f7d-d2822a797e42.png)
+ 
+ - Para iniciar crearemos una carpeta en el escritorio bajo el nombre de "MarkDown" en donde guardaremos nuestro primer archivo al cual llamaremos "HelloWorld!.md"
+ felicidades has creado tu primer archivo MarkDown.md, para visualizar el resultado ejecutamos el comando  (Alt + Ctrl + Mayús + v) o (Ctrl + K V)
+ ![image](https://user-images.githubusercontent.com/118775234/236724496-ca5d8827-0b23-4697-a6b0-ed9286910a80.png)
+ 
    
 
