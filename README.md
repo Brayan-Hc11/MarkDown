@@ -17,4 +17,12 @@ MarkDown es un lenguaje  de  marcado creado por Jhon Gruber, que trata de simpli
 
 Para el desarrollo y aprendizaje de MarkDown estaremos utilizando dos herramientas:
 
-- Una es un IDE en linea conocido como <a href="https://dillinger.io/">Dilinger.io </a> que nos permitira crear y ejecutar archivos de MarkDown(.md) en nuestro navegador web sin necesidad de descargarlo.
+- La primera es un IDE en linea conocido como <a href="https://dillinger.io/">Dilinger.io </a> que nos permitira crear y ejecutar archivos de MarkDown(.md) en nuestro navegador web sin necesidad de descargarlo.
+
+![image](https://user-images.githubusercontent.com/118775234/236720114-3fa2e678-3e93-4737-a515-19602ccb25d3.png)
+
+- La segunda es un IDE de escritorio conocido como <a href="https://code.visualstudio.com/Download"> Visual estuio code </a> que nos permitira crear, ejecutar de forma remota y gurdar nuestros archivos de MarkDown(.md) en nuestro ordenador con la seguridad de poder visualizarlos, para esta opción es recomnedable usar la última verción 1.76 de abril  del 2023 que nos permitirá utilizar la siguiente herramienta que será una extención que nos permite visualiz 
+
+![image](https://user-images.githubusercontent.com/118775234/236720711-48a815db-27db-4e3d-9379-d7b5911074fc.png)
+ 
+
