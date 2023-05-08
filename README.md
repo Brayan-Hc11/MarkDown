@@ -35,6 +35,7 @@ La segunda es un IDE de escritorio conocido como <a href="https://code.visualstu
  
  - Para iniciar crearemos una carpeta en el escritorio bajo el nombre de "MarkDown" en donde guardaremos nuestro primer archivo al cual llamaremos "HelloWorld!.md"
  felicidades has creado tu primer archivo MarkDown.md, para visualizar el resultado ejecutamos el comando  (Alt + Ctrl + Mayús + v) o (Ctrl + K V)
+ 
  ![image](https://user-images.githubusercontent.com/118775234/236724496-ca5d8827-0b23-4697-a6b0-ed9286910a80.png)
  
    
