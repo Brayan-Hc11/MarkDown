@@ -12,3 +12,7 @@ MarkDown es un lenguaje  de  marcado creado por Jhon Gruber, que trata de simpli
 - GitHub Lab 
 - GitHub 
 - GitHub Profile
+
+## Herramientas a usar:
+
+para el desarrollo y aprendizaje de MarkDown estaremos usando un IDE en linea <a href="https://dillinger.io/">Dilinger.io </a>
