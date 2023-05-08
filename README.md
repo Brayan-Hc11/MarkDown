@@ -15,4 +15,6 @@ MarkDown es un lenguaje  de  marcado creado por Jhon Gruber, que trata de simpli
 
 ## Herramientas a usar:
 
-para el desarrollo y aprendizaje de MarkDown estaremos usando un IDE en linea <a href="https://dillinger.io/">Dilinger.io </a>
+Para el desarrollo y aprendizaje de MarkDown estaremos utilizando dos herramientas:
+
+Una es un IDE en linea <a href="https://dillinger.io/">Dilinger.io </a>
