@@ -19,10 +19,13 @@ Para el desarrollo y aprendizaje de MarkDown estaremos utilizando dos herramient
 
 - La primera es un IDE en linea conocido como <a href="https://dillinger.io/">Dilinger.io </a> que nos permitira crear y ejecutar archivos de MarkDown(.md) en nuestro navegador web sin necesidad de descargarlo.
 
+
 ![image](https://user-images.githubusercontent.com/118775234/236720114-3fa2e678-3e93-4737-a515-19602ccb25d3.png)
 
 ## Configuración de VS Code
-- La segunda es un IDE de escritorio conocido como <a href="https://code.visualstudio.com/Download"> Visual estuio code </a> que nos permitira crear, ejecutar de forma remota y gurdar nuestros archivos de MarkDown(.md) en nuestro ordenador con la seguridad de poder visualizarlos en timpo real.
+La segunda es un IDE de escritorio conocido como <a href="https://code.visualstudio.com/Download"> Visual estuio code </a> que nos permitira crear, ejecutar de forma remota y gurdar nuestros archivos de MarkDown(.md) en nuestro ordenador con la seguridad de poder visualizarlos en timpo real.
+
+- Procedemos a la instalación de <a href="https://code.visualstudio.com/Download"> Visual estuio code </a> si no lo tienes, es recomendable usar el User Installer de 64 Bits para Windows. 
 
 ![image](https://user-images.githubusercontent.com/118775234/236720711-48a815db-27db-4e3d-9379-d7b5911074fc.png)
  
