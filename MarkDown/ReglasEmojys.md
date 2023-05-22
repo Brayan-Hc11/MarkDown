@@ -11,6 +11,17 @@ podemos ver un salto de linea y seguido una separación atraves de una linea.
 ---
 con los tres simbolos obtenemos en mismo resultado.
 
-___
+___ 
 
-## acerca de
+## Emojis
+
+para poder  visualizar los emojis es necesrio el uso de la siguiente pagina [emojis](https://dev.to/envoy_/150-badges-for-github-pnk "Emojis for GitHub")
+
+---
+
+#### list Emojis
+
+:blush:
+:smile:
+:ear:
+:umbrella:
