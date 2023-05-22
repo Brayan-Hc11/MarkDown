@@ -15,7 +15,7 @@ ___
 
 ## Emojis
 
-para poder  visualizar los emojis es necesrio el uso de la siguiente pagina [Complete list Emojis](https://dev.to/envoy_/150-badges-for-github-pnk "Emojis for GitHub")
+para poder  visualizar los emojis es necesrio el uso de la siguiente pagina [Complete list Emojis](https://gist.github.com/rxaviers/7360908 "lista completa de emojis")
 
 ---
 
